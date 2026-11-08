@@ -1,0 +1,27 @@
+{
+  "name": "rocketship",
+  "displayName": "Rocketship",
+  "version": "1.0.0",
+  "description": "Rocketship gets you customers. Tell Claude who you sell to and see how many buyers match, free. Then add the right people, email them from your own Gmail with follow-ups, and see who replied.",
+  "author": {
+    "name": "Rocketship",
+    "email": "support@deployrocketship.com",
+    "url": "https://deployrocketship.com"
+  },
+  "homepage": "https://deployrocketship.com",
+  "repository": "https://github.com/CarlosJeer/rocketship-claude-plugin",
+  "license": "MIT",
+  "keywords": [
+    "sales",
+    "lead generation",
+    "prospecting",
+    "outreach",
+    "cold email",
+    "find customers"
+  ],
+  "icon": "./logo.png",
+  "documentationUrl": "https://deployrocketship.com/claude",
+  "supportUrl": "https://deployrocketship.com/contact",
+  "privacyPolicyUrl": "https://deployrocketship.com/privacy",
+  "termsOfServiceUrl": "https://deployrocketship.com/terms"
+}
